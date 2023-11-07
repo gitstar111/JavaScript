@@ -6,6 +6,6 @@ console.log(accountId);
 console.table([accountEmail,accountId,accountPassword, accountState])
 //comments are used like this
 
-/*
-and like this
+/* 
+and like this.
 */
